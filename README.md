@@ -1,0 +1,2 @@
+# CellularAutomata
+Some classes that demonstrate the interesting beheviour of cellular automata. The first program can draw all 255 rules of elmentary CA. It is fascinating how random behaviour can be created from a set of deterministic rules and some initial conditions. This reinforces the idea that humans are massive conglomeration of interacting cells. The second class is a demonstration of the game of life by John Conway. 
