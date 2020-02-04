@@ -1,0 +1,6 @@
+Program has to be ran from Terminal/ Command prompt.
+
+It accepts three arguments: int sizeBoard, int Iterartions, String Mode
+*In this version there are 2 modes: G (glidder) R (random)
+*The random creates some xonstant patterns to demonstrate proper behaviour*
+Feel free to contact me for any explanations, jaarcos@mun.ca
